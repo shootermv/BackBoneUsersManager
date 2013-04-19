@@ -1,0 +1,1 @@
+Simple  experimental backbone.JS application for managing user accounts in the site BackOffice. 
